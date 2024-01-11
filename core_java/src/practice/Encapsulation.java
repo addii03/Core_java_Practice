@@ -10,7 +10,6 @@ class atm
 }
 public class Encapsulation {
 public static void main(String[] args) {
-	
 
 	atm ref= new atm();
 	ref.withdraw();
